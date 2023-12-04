@@ -1,0 +1,87 @@
+.addForm {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.add {
+    display: flex;
+    flex-direction: column;
+}
+
+.addInp {
+    width: 600px;
+    height: 35px;
+    border: 1px solid rgb(126, 87, 194);
+    border-radius: 7px;
+    padding: 0 10px;
+}
+
+.textarea {
+    width: 600px;
+    border: 1px solid rgb(126, 87, 194);
+    height: 130px;
+    border-radius: 7px;
+    padding: 10px;
+}
+
+.colorSection{
+    display: flex;
+    gap: 200px;
+    align-items: center;
+}
+
+.color {
+    display: flex;
+    gap: 20px;
+    padding: 30px 0;
+}
+
+.pink {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgb(240, 98, 146);
+}
+
+.purple {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgb(186, 104, 200);
+}
+
+.blue {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgb(79, 195, 247);
+}
+
+.yellow {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgb(255, 213, 79);
+}
+
+.green {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgb(174, 213, 129);
+}
+
+.saveBtn{
+    width: 90px;
+    height: 40px;
+    background-color: rgb(126, 87, 194);
+    border: none;
+    border-radius: 8px;
+    color: white;
+}
+.p{
+    color: rgb(126, 87, 194);
+}

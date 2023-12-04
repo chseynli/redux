@@ -1,0 +1,12 @@
+.search{
+    display: flex;
+    justify-content: center;
+}
+
+.searchInp{
+    width: 600px;
+    height: 35px;
+    border: 1px solid rgb(126, 87, 194);
+    border-radius: 7px;
+    padding: 0 10px;
+}
